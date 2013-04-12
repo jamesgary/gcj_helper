@@ -43,4 +43,4 @@ GCJ.solve(input, output) do |line|
 end
 ```
 
-Now you upload `a.out` and bask in the glory of GCJ championship!
+Now you run `ruby example.rb`, upload `a.out`, and bask in the glory of GCJ championship!
