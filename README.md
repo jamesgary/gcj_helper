@@ -9,7 +9,7 @@ A JRuby-powered helper for Google Code Jam
 
 ## Usage
 
-Here's an example of solving a challenge to sum all numbers. The input might look like this (the first line is just the number of :
+Here's an example of solving a challenge to sum all numbers. The input might look like this (the first line is just the number of test cases):
 
 ```
 3
@@ -44,3 +44,7 @@ end
 ```
 
 Now you run `ruby example.rb`, upload `a.out`, and bask in the glory of GCJ championship!
+
+## Todo
+
+Handle inputs where each test case is on a variable number of lines, such as [Hall of Mirrors](https://code.google.com/codejam/contest/1460488/dashboard#s=p3).
